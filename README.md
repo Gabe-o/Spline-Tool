@@ -1,4 +1,5 @@
 # Assignment 3
+![](https://github.com/Gabe-o/Spline-Tool/blob/main/Exercise1.gif)
 ## Info
 Name: Gabriel Olivotto    
 Email: golivott@uwo.ca  
