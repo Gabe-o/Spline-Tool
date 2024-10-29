@@ -1,9 +1,7 @@
 # Assignment 3
 ![](https://github.com/Gabe-o/Spline-Tool/blob/main/Exercise1.gif)
 ## Info
-Name: Gabriel Olivotto    
-Email: golivott@uwo.ca  
-Student #: 251150929
+A spline tool I made as part of my computer graphics course.
 
 ## Submission
 ### Exercise1.cpp
